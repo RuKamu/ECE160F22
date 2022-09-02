@@ -10,9 +10,8 @@ Write a shell script that does the following:
 
 Hint: "../" goes back one directory
 
-How to Compile/Run: 
+How to Compile/Run:
 $./q1.sh
 
 Output:
 directory "hw1_unix" has files "file2.txt" and "file3.txt", directory "hw1_unix_2" has directory "hw1_unix_copy" and "file.txt"?
-
